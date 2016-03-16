@@ -213,6 +213,7 @@ function create_config( )
     enabled_plugins = {
       "help",
       "Spam",
+      "ctrl",
       "id",
       "plugins",
       },
